@@ -1,4 +1,4 @@
-# Supplementary files and code to produce HMM logos  
+# Code to produce HMM logos; Intermediate files and alignments  
 
 A Jupyter notebook demonstrating the code and process used to generate HMM logos in Figure 5 and Figure S4 is found in `/Sequence_logos`.  
 
